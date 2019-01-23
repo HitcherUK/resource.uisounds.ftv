@@ -8,5 +8,10 @@
     <summary lang="en">fTV Sounds</summary>
     <description lang="en">fTV Sounds</description>
     <platform>all</platform>
+    <source>https://github.com/HitcherUK/resource.uisounds.ftv</source>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+    </assets>
   </extension>
 </addon>
